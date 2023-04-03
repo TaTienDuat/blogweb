@@ -1,7 +1,7 @@
 # blogweb
 Để chạy ứng dụng, chúng ta cần sử dụng a Dockerfile và Docker Compose. 
 Dockerfile chỉ đơn giản là một kịch bản hướng dẫn dựa trên văn bản được sử 
-dụng để tạo một container image
+dụng để tạo một container image.
 ```bash
 FROM php:7.4-apache
 RUN docker-php-ext-install mysqli
