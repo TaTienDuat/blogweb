@@ -65,6 +65,6 @@ Khi build thành công trên nền tảng Docker sẽ thấy website chạy trê
 ![trang chu](/giaodien1.png)
 
 - Giao diện Admin
-![Admin](/daodien2.png)
+![Admin](/giaodien2.png)
 
 
