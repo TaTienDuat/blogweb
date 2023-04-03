@@ -55,4 +55,16 @@ Sau khi đã cấu hình docker file và docker-compose trong terminal gõ lện
 ```bash
 docker-compose up -d
 ```
-Trong đó -d để chạy mọi thứ trong nền.
+Trong đó -d để chạy mọi thứ trong nền. Sau khi chạy thành công sẽ thấy terminal sẽ thấy báo như hình
+
+![Build](/Build.png)
+
+Khi build thành công trên nền tảng Docker sẽ thấy website chạy trên máy chủ có địa chỉ http://localhost:80
+
+- Giao diện trang chủ
+![trang chu](/giaodien1.png)
+
+- Giao diện Admin
+![Admin](/daodien2.png)
+
+
